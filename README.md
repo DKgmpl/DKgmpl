@@ -9,7 +9,7 @@ I'm a beginner developer with focus on Java and Spring Boot, passionate about bu
 
 # Featured Projects
 
-## SpaceControl
+## 1. SpaceControl
 
 Space Controll is a comprehensive office space management system that enables efficient allocation and utilization of office resources.
 
@@ -19,7 +19,7 @@ Space Controll is a comprehensive office space management system that enables ef
 
 [View Repository](https://github.com/DKgmpl/SpaceControll)
   
-## Meeting Location Jade
+## 2. Meeting Location Jade
 
 An e-commerce platform that allows users to browse and purchase products seamlessly. 
 Developed a Java application utilizing the JADE (Java Agent Development Framework) to simulate agent-based communication. The application creates agents that exchange messages containing their respective locations on a graph. By implementing Dijkstra's algorithm, the agents collaboratively determine an optimal meeting point that minimizes the travel cost for all involved agents.
