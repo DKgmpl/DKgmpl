@@ -7,7 +7,7 @@ I'm a beginner developer with focus on Java and Spring Boot, passionate about bu
 - **Databases:** MongoDB, PostgreSQL
 - **Tools:** Git, Docker, Jenkins
 
-## Featured Projects
+# Featured Projects
 
 ##SpaceControl##
 
