@@ -26,10 +26,10 @@ Developed a Java application utilizing the JADE (Java Agent Development Framewor
    
 [View Repository](https://github.com/DKgmpl/MeetingLocationJade)
    
-## What I'm Working On
+## What I'm Working On##
   * Cisco CCNA ITN Certificate, to gain a deeper understanding of computer networks in the broadest sense.
 
-##📫 Let's Connect
+##📫 Let's Connect##
   - **Email**: [dawid.nogiec@gmail.com]
   - **LinkedIn**: Dawid Nogieć [https://www.linkedin.com/in/dawid-nogiec/]
 <!--
