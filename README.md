@@ -1,5 +1,15 @@
-## Hi there 👋 I'm Dawid Nogieć!
+# Hi there 👋 I'm Dawid Nogieć!
 I'm a beginner developer with focus on Java and Spring Boot, passionate about building software that makes people’s lives easier.
+
+## 🛠️ Technologies and Tools:
+* Languages: Java/Python
+* Frameworks: Spring Boot, Hibernate
+* Frontend: HTML, CSS, Tailwind
+* Databases: SQL (MySQL, TSQL)
+* Version Control: Git
+
+## Featured Projects:
+
 <!--
 **DKgmpl/DKgmpl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
